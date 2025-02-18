@@ -15,12 +15,12 @@ This project builds a **Netflix Movie Recommendation System** using collaborativ
 ## 🛠 Technologies Used
 - **Programming Language:** Python (ipython-notebook - Python Text Editor)
 - **Libraries:**
-  sklearn - Machine learning library
-  seaborn, matplotlib.pyplot, - Visualization libraries
-  numpy, scipy- number python library
-  pandas - data handling library
-  XGBoost - Used for making regression models
-  Surprise - used for making recommendation system models
+  -sklearn - Machine learning library
+  -seaborn, matplotlib.pyplot, - Visualization libraries
+  -numpy, scipy- number python library
+  -pandas - data handling library
+  -XGBoost - Used for making regression models
+  -Surprise - used for making recommendation system models
 - **Recommendation Algorithm:** Truncated SVD (Singular Value Decomposition), Cosine Similarity
 
 ## 📈 Sample Results
